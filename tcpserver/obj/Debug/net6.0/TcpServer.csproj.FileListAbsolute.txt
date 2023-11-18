@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\bin\Debug\net6.0\TcpServer.exe
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\bin\Debug\net6.0\TcpServer.deps.json
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\bin\Debug\net6.0\TcpServer.runtimeconfig.json
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\bin\Debug\net6.0\TcpServer.dll
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\bin\Debug\net6.0\TcpServer.pdb
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.dll
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\refint\TcpServer.dll
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.pdb
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\TcpServer.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\4 курс\Самоделкин4курс\data-validation-tcp-server-main\obj\Debug\net6.0\ref\TcpServer.dll
